@@ -1,0 +1,32 @@
+<style>
+   table,tr,td{
+    border:1px solid black
+    border-collapse;colapse
+  {
+</style>
+
+<table border="1"
+
+<tr>
+ <td>Ionescu</td>
+<td>Anton</td>
+<td>9</td>
+</tr>
+
+<tr>
+<td>Mircea</td>
+<td>George</td>
+<td>8</td>
+</tr>
+
+<tr>
+<td>Ionescu</td>
+<td>Stancu</td>
+<td>10</td>
+</tr>
+
+<tr>
+<td colspan="2">Media</td>
+<td>9</td>
+</tr>
+</tabele>
